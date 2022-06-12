@@ -7,4 +7,4 @@
 
 ### About me
 
-I'm a Software Developer at SAP Labs Latin America and Computer Science student at UNISINOS.
+I'm a Software Developer and Computer Science Bachelor.
